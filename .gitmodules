@@ -4,3 +4,9 @@
 [submodule "BBBB"]
 	path = BBBB
 	url = https://github.com/tongjizhangbang/BBBB.git
+[submodule "rick"]
+	path = rick
+	url = https://github.com/tongjizhangbang/BBBB.git
+[submodule "SUB"]
+	path = SUB
+	url = https://github.com/tongjizhangbang/BBBB.git
