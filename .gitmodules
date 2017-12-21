@@ -10,3 +10,9 @@
 [submodule "SUB"]
 	path = SUB
 	url = https://github.com/tongjizhangbang/BBBB.git
+[submodule "RICK1"]
+	path = RICK1
+	url = https://github.com/tongjizhangbang/TTTT.git
+[submodule "RICK2"]
+	path = RICK2
+	url = https://github.com/tongjizhangbang/BBBB.git
